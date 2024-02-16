@@ -17,5 +17,5 @@ World's first Deceleration-Online-Word-Game (DOWG).
 
 ## Contribute
 
-* via [GitHub](https://github.com/midzer/wordofday/edit/master/_data/items.yml)
-* or [contact me](https://midzer.de/contact)
+* via Pull Request on [GitHub](https://github.com/midzer/wordofday/edit/master/_data/items.yml)
+* or [contact me](https://midzer.de/contact) directly
