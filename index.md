@@ -13,7 +13,7 @@ World's first Deceleration-Online-Word-Game (DOWG).
 
 * chainy: new word's 1st letter has to match previous' last letter
 * slowly: only 1 word per day
-* unique: one word per user per game, no offensive terms
+* unique: one word per user per game
 
 ## Contribute
 
