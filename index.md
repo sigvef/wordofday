@@ -1,8 +1,21 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
+# WordOfDay
 
-It's alive!
+World's first Deceleration-Online-Word-Game (DOWG).
+
+{% include current.html %}
+
+{% include previous.html %}
+
+## Rules
+
+* chainy: new word's 1st letter has to match previous' last letter
+* slowly: only 1 word per day
+* unique: one word per user, no offensive terms
+
+## Contribute
+
+* via [GitHub](https://github.com/midzer/wordofday/edit/master/_data/items.yml)
+* or [contact me](https://midzer.de/contact)

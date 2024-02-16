@@ -1,0 +1,11 @@
+<details>
+    <ul>
+        {% assign count = site.data.items.size | minus: 1%}
+        {% for item in site.data.items reversed limit: count %}
+          <li>
+            <b>{{ item.word }}</b> by <i>{{ item.name }}</i> from {{ item.date }}
+          </li>
+        {% endfor %}
+    </ul>    
+    <summary>Previous words</summary>
+</details>
